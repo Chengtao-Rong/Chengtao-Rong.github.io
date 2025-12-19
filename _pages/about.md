@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Chengtao Rong(戎成涛) received the B.S. degree from Beijing Institute of Technology, Fang shan, China in 2026. My research interest includes radio frequency, analog and mixed signal, and ai4rf.
+I am currently persuing my master's degree in the University of Science and Technology of China. My tutor is [Hao Guo](https://scholar.google.com/citations?hl=en&user=eEuUx2KjTlUC&view_op=list_works&sortby=pubdate).My research interest includes: *Analog (Mixed Signal) Integrated Circuits Design, Radio-Frequency Integrated Circuits Design*.
 
 
 # 🔥 News
