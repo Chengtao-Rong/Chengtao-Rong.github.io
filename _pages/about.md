@@ -49,6 +49,6 @@ I am currently persuing my master's degree in the University of Science and Tech
 # 📖 Educations
 - *2022.09 - 2026.06*, Undergraduate, Beijing Institute of Technology, Beijing.
 
-# ⚒️ Skills
+# 🔨 Skills
 - **Software:** Analog IC Design toolchains (Cadence Virtuoso, Mentor Calibre, etc.), EM simulation tools (Ansys HFSS), Digital IC Design toolchains (AMD Vivado), RF Design toolchains (Keysight ADS).
 - **Programming Language:** C, Python, Matlab, Cadence SKILL, Verilog.
