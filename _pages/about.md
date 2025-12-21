@@ -69,11 +69,11 @@ I am currently persuing my master's degree in the University of Science and Tech
 
 《百年孤独》（西班牙语：Cien años de soledad），是哥伦比亚作家加夫列尔·加西亚·马尔克斯的作品，“魔幻现实主义”的代表作，被认为是拉丁美洲文学大爆炸最知名的代表作品之一，是拉美和普世文学的杰作，也是西班牙语翻译和阅读量最大的作品之一，在世界上享有盛誉。作者也因此获得1982年诺贝尔文学奖，瑞典皇家学院的颁奖理由是：“像其他重要的拉丁美洲作家一样，马奎斯永远为弱小贫穷者请命，而反抗内部的压迫与外来的剥削。”
 
-# 🛠️ Techniques
+# 🛠️ Skills
 - **Software:** Analog IC Design toolchains (Cadence Virtuoso, Mentor Calibre, etc.), EM simulation tools (Ansys HFSS), Digital IC Design toolchains (AMD Vivado), RF Design toolchains (Keysight ADS).
 - **Programming Language:** C, Python, Matlab, Cadence SKILL, Verilog.
 
-# 💬 Invited Talks
+# 💬 Invited Talk
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
