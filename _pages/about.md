@@ -42,6 +42,10 @@ I am currently pursuing my master's degree at the University of Science and Tech
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<span class='anchor' id='chip-gallery'></span>
+
+# Chip Gallery
+
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship
 - *2024.10* National Scholarship
