@@ -44,7 +44,7 @@ I am currently pursuing my master's degree at the University of Science and Tech
 
 <span class='anchor' id='chip-gallery'></span>
 
-# <i class="fas fa-microchip" aria-hidden="true"></i> Chip Gallery
+# 🔬 Chip Gallery
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship
