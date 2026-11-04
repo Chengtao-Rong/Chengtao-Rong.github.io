@@ -51,6 +51,7 @@ I am currently pursuing my master's degree at the University of Science and Tech
 - *2024.10* National Scholarship
 
 # 📖 Education
+- *2026.09 - Present*, Master's student, University of Science and Technology of China, Hefei.
 - *2022.09 - 2026.06*, Undergraduate, Beijing Institute of Technology, Beijing.
 
 # 🔨 Skills
